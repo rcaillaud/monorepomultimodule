@@ -1,0 +1,2 @@
+proc barpackage*() =
+  echo "barpackage"

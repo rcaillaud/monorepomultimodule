@@ -1,0 +1,29 @@
+[
+  {
+    "name": "foopackage",
+    "url": "https://github.com/rcaillaud/monorepomultimodule.git?subdir=foopackage",
+    "method": "git",
+    "tags": [
+    ],
+    "description": "Foo package",
+    "license": "MIT"
+  },
+  {
+    "name": "barpackage",
+    "url": "https://github.com/rcaillaud/monorepomultimodule.git?subdir=barpackage",
+    "method": "git",
+    "tags": [
+    ],
+    "description": "Bar package",
+    "license": "MIT"
+  },
+  {
+    "name": "foozpackage",
+    "url": "https://github.com/rcaillaud/monorepomultimodule.git?subdir=foozpackage?",
+    "method": "git",
+    "tags": [
+    ],
+    "description": "Fooz package",
+    "license": "MIT"
+  }
+]
